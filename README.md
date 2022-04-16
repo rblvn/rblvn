@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ivan
-- 🚀 Working for crypto startup as Product Manager
+- 🚀 Working for a crypto startup as Product Manager
 - 👨‍💻 Have 3 years of a web developer experience
 - 🛠 Active validator for a 3 different projects
 <!---
